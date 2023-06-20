@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCProject2", "MVCProject2.csproj", "{6589CD3C-A1BD-4573-B720-BCC3810DD309}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatusChangerWebJob", "..\StatusChangerWebJob\StatusChangerWebJob.csproj", "{1586A5AF-7A1B-41E2-9A5E-0AFF9899B8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6589CD3C-A1BD-4573-B720-BCC3810DD309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6589CD3C-A1BD-4573-B720-BCC3810DD309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6589CD3C-A1BD-4573-B720-BCC3810DD309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6589CD3C-A1BD-4573-B720-BCC3810DD309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1586A5AF-7A1B-41E2-9A5E-0AFF9899B8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1586A5AF-7A1B-41E2-9A5E-0AFF9899B8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1586A5AF-7A1B-41E2-9A5E-0AFF9899B8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1586A5AF-7A1B-41E2-9A5E-0AFF9899B8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE75E3B-B8A1-48C0-A93E-1B2BF4E4A735}
+	EndGlobalSection
+EndGlobal
